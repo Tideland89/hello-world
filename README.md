@@ -1,2 +1,2 @@
-# hello-world
+# Hola, soy José, tengo 32 años y me he dado cuenta recientemente que me gusta la informática y las tecnologías como algo más que una simple afición, me encuentro con ganas y fuerzas para estudiar y ponerme al día para algún día poder trabajar y dedicarme a algo que me apasione. Aprendiendo de forma autodidacta no descarto formarme y poder desarrollarme profesionalmente a este sector, colaborando con proyectos y cumpliendo objetivos tanto individuales como colectivos.
 Just testing 
